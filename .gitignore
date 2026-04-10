@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+dist/
+build/
+*.egg-info/
+src/*.egg-info/
+data/raw/*.pdf
+data/processed/*.json
+data/processed/*.jsonl
